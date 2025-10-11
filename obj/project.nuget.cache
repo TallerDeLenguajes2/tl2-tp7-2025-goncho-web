@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vr+Bis5h5iU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alumno\\Desktop\\tp7 - taller\\tl2-tp7-2025-goncho-web\\tl2-tp7-2025-goncho-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@tl2_tp7_2025_goncho_web_HostAddress = http://localhost:5263
+
+GET {{tl2_tp7_2025_goncho_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
